@@ -26,5 +26,12 @@ The Translator Bot is a Discord bot designed to translate messages from a specif
 ```bash
 git clone https://github.com/your-repo/translator-bot.git
 cd translator-bot
-open translator.py
+Make Sure To Put In your Bot Token in the Translator.py
+```
+### 2. Starting The Program
+
+```bash
+Open Start.bat
+then go to your server and type
 .support start (channel id) (userid)
+```
