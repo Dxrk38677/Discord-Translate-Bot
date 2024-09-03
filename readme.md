@@ -1,22 +1,23 @@
 # Translator Bot
 
-## Made By Dxrk3867Bot,Dxrk3867
+## Created By
+**Dxrk3867Bot** & **Dxrk3867**
 
 ## Overview
 
-The Translator Bot is a Discord bot created by Dxrk3867 designed to translate messages from a specified user into a selected language. This bot uses Google Translate to provide translations and allows server members to interact with it by reacting to messages to set their preferred language.
+The Translator Bot is a Discord bot designed to translate messages from a specified user into a selected language. Created by Dxrk3867, this bot leverages Google Translate to provide real-time translations and allows server members to set their preferred language by reacting to a message.
 
 ## Features
 
-- Translate messages from a specific user into a selected language.
-- Start and stop translation services via commands.
-- Automatic detection of messages from the specified user and translation into the chosen language.
+- **Language Translation**: Automatically translates messages from a specified user into a chosen language.
+- **Start/Stop Translation Services**: Easily control translation services using commands.
+- **Interactive Language Selection**: Users can react to a message to select their preferred language for translation.
 
 ## Prerequisites
 
-- Python 3.8 or higher
-- A Discord bot token
-- Required Python libraries (listed in `requirements.txt`)
+- **Python 3.8 or Higher**: Ensure you have Python 3.8 or later installed.
+- **Discord Bot Token**: Create a bot on the [Discord Developer Portal](https://discord.com/developers/applications) and get your token.
+- **Required Libraries**: Install the required Python libraries listed in `requirements.txt`.
 
 ## Setup
 
@@ -25,6 +26,5 @@ The Translator Bot is a Discord bot created by Dxrk3867 designed to translate me
 ```bash
 git clone https://github.com/your-repo/translator-bot.git
 cd translator-bot
-
-
-## Contact me On Discord : Dxrk3867Bot Or Dxrk3867
+open translator.py
+.support start (channel id) (userid)
