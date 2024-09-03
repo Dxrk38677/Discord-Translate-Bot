@@ -1,5 +1,6 @@
 # Translator Bot
 
+![Translator Bot Banner]([[https://media.discordapp.net/attachments/1280552587724324895/1280553693875408947/IMG_3980.png?ex=66d88010&is=66d72e90&hm=754c79a2a40d35715658664cfc5e3b33e098bd4c241aa33af5376eb149cf1b29&=&quality=lossless]])) 
 
 ## Created By
 
@@ -33,7 +34,7 @@ To ensure the bot functions correctly, grant the following permissions when addi
 3. **Add Reactions**: Enables the bot to add emoji reactions.
 4. **Read Message History**: Necessary for translating previous messages.
 
-![Bot Permissions]([[https://cdn.discordapp.com/attachments/1224724172954013748/1280611864148967546/image.png?ex=66d8b63d&is=66d764bd&hm=74df6ba45e35ab01d477520237191265a8266e2c8c39a9f0869fd3a2bda4c4b4&]) 
+![Bot Permissions](https://cdn.discordapp.com/attachments/1224724172954013748/1280611864148967546/image.png?ex=66d8b63d&is=66d764bd&hm=74df6ba45e35ab01d477520237191265a8266e2c8c39a9f0869fd3a2bda4c4b4&) 
 
 ## Setup Instructions
 
@@ -80,7 +81,6 @@ After starting, go to your Discord server and initiate the bot with the followin
 
 Replace `(channel_id)` and `(user_id)` with the specific Discord channel ID and user ID.
 
-
 ## Usage
 
 1. **Start the Bot**: Use the `.support start` command followed by the channel ID and user ID where you want translations.
@@ -94,7 +94,7 @@ Replace `(channel_id)` and `(user_id)` with the specific Discord channel ID and 
 
 ## Additional Information
 
-For more details, visit the [GitHub repository](https://github.com/your-repo/translator-bot) or check the [Discord documentation](https://discord.com/developers/docs/intro).
+For more details, visit the [GitHub repository]([https://github.com/your-repo/translator-bot)] or check the [Discord documentation](https://discord.com/developers/docs/intro).
 
 ## License
 
